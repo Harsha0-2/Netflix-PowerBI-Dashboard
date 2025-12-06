@@ -29,7 +29,7 @@ DAX - Measures & Calculations
 4.Dashboard Preview
 
 
-[Netflix Dashboard](Netflix_PowerBI_Dashboard.png)
+[Netflix Dashboard](Netflix_Dashboard_Screenshot.png)
 
 ---
 
@@ -67,4 +67,5 @@ It can be used for business insights, viewer preference study, genre analysis, a
 'Harsha U'
 
 ---
+
 
