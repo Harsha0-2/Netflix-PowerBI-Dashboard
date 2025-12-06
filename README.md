@@ -57,15 +57,16 @@ iv. Explore visuals using filters like 'Year', 'Type (Movie/TV Show)' etc.
 
 ---
 
-8.Summary
+8.Summary-
 This dashboard provides a quick overview of Netflix's content library and trends through interactive visuals.  
 It can be used for business insights, viewer preference study, genre analysis, and further data storytelling.
 
 ---
 
-9.Author
+9.Author-
 'Harsha U'
 
 ---
+
 
 
